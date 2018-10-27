@@ -1,0 +1,176 @@
+
+ body{
+  font-family: "Open Sans",sans-serif;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+ }
+nav{
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 15px 20px 0 20px;
+  height: 30px;
+  font-size: .8em;
+}
+nav a{
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;   
+  }
+
+  .top-links {
+    position: relative;
+    float: right;
+    margin: 0;
+    top: -14px;        
+  }
+  .top-links li{
+    display: inline-block;
+    margin: 0 10px;
+    padding-bottom: 4px;    
+  }
+.logo{
+padding: 15px 20px 0 20px;
+height: 30px;
+width: 60px;
+}
+.form{
+  width: 90%;
+  margin: 0 auto 0;
+  font-size: 1.5em;
+  background: white;
+  padding: 0;
+  position: absolute;
+  top: 60PX;
+  left: 100Px;
+  }
+
+
+.header{
+  background-image: url('images/buildings-and-billboard.png');
+  position: relative;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 450px;
+  background-size: cover;
+  text-align: center;
+  
+
+
+  
+  }
+
+.text-header {
+  width: 250px;
+  height: 400px;
+  padding: 50px;
+  color: white;
+  font-size: 20px;
+   top: 3000px;
+   text-align: left;
+   padding-left: px
+  
+
+}
+.boton-header{
+  background-color:rgb(240, 146, 51);
+  color:#fff;
+  padding:10px 30px;
+  border: none;
+  border-radius:20px;
+  text-decoration: none;
+  }
+
+  .clearfix{
+    clear: both;
+  }
+
+  .img-colaboracion{
+   
+    background-color :rgb(39, 53, 71);
+    width: auto;
+    height: 200px;
+    padding : 200px 200px 100px;
+    position: absolute;
+    text-align: center;
+    align-items: center
+    
+  }
+  .texto-colaboracion{
+      width: auto;
+      height: 450px;
+      position: relative;
+      background-color: rgb(39, 53, 71);
+      float: right;
+      padding-top: 50px;
+      padding-right: 300PX;
+      color: #fff;
+      
+  }
+  .boton-colaboracion{
+  background-color:rgb(203, 56, 55);
+  color:#fff;
+  padding:10px 30px;
+  border: none;
+  border-radius:20px;
+  text-decoration: none;
+
+  }
+  .link-colaboracion{
+    text-decoration: none;
+    color: #fff;
+    
+
+  }
+    
+  
+  .whats{
+   background-image: url('images/forklift.svg');
+   position: relative;
+   width: auto;
+   height: 450px;
+   
+   
+  }
+   .texto-whats{
+     width: 300px;
+     padding-left: 350px;
+     color: #fff;
+     padding-top: 150px;
+   }
+   .boton-whats{
+    background-color:rgb(49, 68, 88);
+    color:#fff;
+    padding:10px 30px;
+    border: none;
+    border-radius:20px;
+    text-decoration: none;
+
+   }
+
+   .text{
+     text-align: center;
+    
+  
+   }
+   .container{
+
+    width: 1200px;
+    margin: 0 auto;
+    padding: 75px 0;
+  }
+   
+   .col{
+    float:left;
+   
+   }
+   .col-3{
+    width: 33%;
+   text-align: center;
+   }
+
+   #seccion3 a{
+    color:rgb(208, 74, 73);
+    text-decoration: none;
+
+   }
+   
